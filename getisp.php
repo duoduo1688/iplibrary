@@ -17,7 +17,7 @@
     }
 
     /**
-     * 析构函数，用于在页面执行结束后自动关闭打开的文件。
+    get ip liast
      */
     public function __destruct() {
         if ($this->fp) {
